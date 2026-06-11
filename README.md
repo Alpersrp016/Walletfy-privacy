@@ -1,0 +1,2 @@
+# Walletfy-privacy
+gizlilik sözleşmesi
